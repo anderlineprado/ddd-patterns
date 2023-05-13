@@ -108,5 +108,5 @@
   },
   "include": [
     "src/**/*.ts"
-  ]
+, "src/service/product.service.spec.ts"  ]
 }
